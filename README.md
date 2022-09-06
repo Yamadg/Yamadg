@@ -12,4 +12,4 @@
 
 ### Connect with me:
 
-![https://vk.com/vi_ne_sharite](https://img.shields.io/badge/вконтакте-black.svg?&style=for-the-badge&logo=vk&logoColor=white)
+![VK](https://img.shields.io/badge/вконтакте-black.svg?&style=for-the-badge&logo=vk&logoColor=white)(https://vk.com/vi_ne_sharite)
