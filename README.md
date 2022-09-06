@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[https://img.shields.io/badge/вконтакте-black.svg?&style=for-the-badge&logo=vk&logoColor=white][VK]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][VK]
 
 
 
